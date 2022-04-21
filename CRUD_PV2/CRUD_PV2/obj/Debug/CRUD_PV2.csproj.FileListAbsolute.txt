@@ -1,0 +1,7 @@
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\obj\Debug\CRUD_PV2.csprojResolveAssemblyReference.cache
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\obj\Debug\CRUD_PV2.MainForm.resources
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\obj\Debug\CRUD_PV2.csproj.GenerateResource.Cache
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\bin\Debug\CRUD_PV2.exe
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\bin\Debug\CRUD_PV2.pdb
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\obj\Debug\CRUD_PV2.exe
+E:\Data Sharp Develop\CRUD_PV2\CRUD_PV2\obj\Debug\CRUD_PV2.pdb
